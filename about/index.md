@@ -20,3 +20,4 @@ comments: false
 {% capture images %} 
     https://user-images.githubusercontent.com/49140815/136737626-8622313b-cd2a-40d8-876c-cdb93703d902.jpg
 {% endcapture %} 
+{% include gallery images=images cols=2 %}
