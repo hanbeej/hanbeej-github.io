@@ -13,7 +13,7 @@ comments: false
 * 전북대 해킹동아리 invisible shield 2015~2021
 * 정부주최 교육기부 활동 쏙쏙캠프 2015
 * 정보처리기사 취득 2021
-
+* Toeic 760
 
 
 
