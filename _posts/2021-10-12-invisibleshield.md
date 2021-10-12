@@ -46,6 +46,7 @@ https://user-images.githubusercontent.com/49140815/136915938-796d6426-66b1-453e-
 홈페이지에 올렸습니다.
 저는 2학년에는 네트워크에 관심을 가져 네트워크에 대해 공부를 하였고
 이후론 웹해킹과 암호학에 대해 공부를 했습니다.
+또한 고학년때에는 저학년을 위해 c언어 멘토링을 하여 학생들에게 질문을 받아 모르는 부분을 해결해 주었습니다.
 
 {% capture images %}
 https://user-images.githubusercontent.com/49140815/136918047-fa38d87b-fa68-413e-be0a-42e05202b9e7.PNG
