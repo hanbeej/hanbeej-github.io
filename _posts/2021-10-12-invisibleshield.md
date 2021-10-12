@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/49140815/136914706-ebdd9fea-8998-451c-
 https://user-images.githubusercontent.com/49140815/136916176-327573f9-9c52-4734-9fa9-90180fc85858.PNG
 https://user-images.githubusercontent.com/49140815/136916230-14cf2d8f-427c-4fc8-84a2-5819beddb990.PNG
 {% endcapture %}
-{% include gallery images=images caption="Seminar" cols=2 %}
+{% include gallery images=images caption="RSA ppt Sample" cols=2 %}
 
 {% capture images %}
 https://user-images.githubusercontent.com/49140815/136915847-2ccabfdc-a757-4f64-a1d9-8e3d935eb387.PNG
