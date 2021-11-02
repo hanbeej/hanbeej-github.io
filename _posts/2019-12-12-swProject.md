@@ -24,9 +24,10 @@ https://user-images.githubusercontent.com/49140815/139758103-6bb91316-059c-4195-
 이외의 차로부터 오는 연락들을 받아 상점 혹은 배달주인에게 전파하는 역할을 구현하는 담당이였습니다
 
 
-<iframe width="560" height="315" src="//https://www.youtube.com/embed/DNriPSghztQ" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/Zxh9BdxJVA8" frameborder="0"> </iframe>
 
+위 동영상은 adoxx로 코딩을 한 이후 입력받은 정보로 자동차가 이동하는 위치를 표시하는 
+동작을 나타낸 동영상이다
 
-
-<iframe width="560" height="315" src="//https://www.youtube.com/embed/Zxh9BdxJVA8" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/DNriPSghztQ" frameborder="0"> </iframe>
 
