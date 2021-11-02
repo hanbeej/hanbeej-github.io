@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/49140815/139758103-6bb91316-059c-4195-
 이외의 차로부터 오는 연락들을 받아 상점 혹은 배달주인에게 전파하는 역할을 구현하는 담당이였습니다
 
 {% capture images %}
-https://user-images.githubusercontent.com/49140815/139768237-38efadc4-7e9a-4eab-b6b8-2401ffe54326.PNG
+https://user-images.githubusercontent.com/49140815/139769093-0da2b129-29b7-47da-8a26-c5aafc8b56d7.PNG
 {% endcapture %}
 {% include gallery images=images caption="State and Squence Diagram" cols=1 %}
 
