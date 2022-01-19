@@ -13,7 +13,7 @@ comments: true
 adoxx 와 아두이노를 통해 아두이노 자동차를 이용하여 배달 알고리즘을
 구축하는 것이 이번 프로젝트의 목표입니다. 
 
-## Diaram
+## Diagram
 
 {% capture images %}
 https://user-images.githubusercontent.com/49140815/139758103-6bb91316-059c-4195-ad3b-e7f5579300ab.PNG
